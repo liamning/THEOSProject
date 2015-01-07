@@ -9,3 +9,5 @@ http://ioscheaters.com/topic/767-tut-set-up-theos-with-sdk-61-on-linuxupdated/
 https://www.youtube.com/watch?v=5jqoSDaebQ4
 
 https://www.youtube.com/watch?v=lTLi8hY5HDg
+
+http://www.tobiasfeigl.de/2013/07/29/tutorial-use-an-unsubscribed-ios-device-to-test-your-ios-applications-for-free-no-apple-developer-subscription-necessary-ios-2-x-7-x-xcode-4-6-x-os-x-10-x/
