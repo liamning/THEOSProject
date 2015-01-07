@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=5jqoSDaebQ4
 https://www.youtube.com/watch?v=lTLi8hY5HDg
 
 http://www.tobiasfeigl.de/2013/07/29/tutorial-use-an-unsubscribed-ios-device-to-test-your-ios-applications-for-free-no-apple-developer-subscription-necessary-ios-2-x-7-x-xcode-4-6-x-os-x-10-x/
+
+http://stackoverflow.com/questions/13568511/how-to-use-xcode-to-design-interface-iosopendev
