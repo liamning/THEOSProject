@@ -15,5 +15,7 @@ http://www.tobiasfeigl.de/2013/07/29/tutorial-use-an-unsubscribed-ios-device-to-
 http://stackoverflow.com/questions/13568511/how-to-use-xcode-to-design-interface-iosopendev
 
 ARC-------------------------
+
 http://seanysh.blogspot.hk/2014/04/ios-arc.html
 http://onevcat.com/2012/06/arc-hand-by-hand/
+http://www.raywenderlich.com/5677/beginning-arc-in-ios-5-part-1
