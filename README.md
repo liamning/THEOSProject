@@ -22,3 +22,4 @@ http://www.raywenderlich.com/5677/beginning-arc-in-ios-5-part-1
 
 Multi-Thread --------------------------------
 http://softpixel.com/~cwright/programming/threads/threads.cocoa.php
+http://stackoverflow.com/questions/10853529/locking-an-object-from-being-accessed-by-multiple-threads-objective-c
